@@ -21,8 +21,8 @@ lose_sound = mixer.Sound('lose(2).mp3')
 
 font.init()
 font1 = font.SysFont('Arial',80)
-win = font1.render('СЮЮЮЮЮЮЮЮЮЮЮ', True, (0, 255, 0))
-lose = font1.render('ТЫ НЕ СЮЮЮЮЮЮЮЮЮ', True, (255, 0, 0))
+win = font1.render('SUUUUUUUUU', True, (0, 255, 0))
+lose = font1.render('YOU NO SUUUUUUU', True, (255, 0, 0))
 font2 = font.SysFont('Arial', 36)
 
 
